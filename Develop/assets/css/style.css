@@ -50,6 +50,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Hero styling start */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +61,10 @@ header nav ul li {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/* Hero styling end */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
+/* Content styling start */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,6 +88,22 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Content styling end */
+
+
+
+/* Benefits styling start */
 
 .benefits {
     margin-right: 20px;
@@ -121,6 +133,9 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* Benefits styling end */
+
+/* Footer styling start */
 
 footer {
     padding: 30px;
@@ -132,3 +147,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Footer styling end */
